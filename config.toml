@@ -1,5 +1,6 @@
 theme = "beautifulhugo"
 baseURL = "https://ct-data-haven.github.io/"
+publishDir = "../ct-data-haven.github.io"
 languageCode = "en-us"
 title = "DataHaven extras"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
