@@ -7,7 +7,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
   subtitle = "B-sides and side projects"
-  dateFormat = "January 1, 2018"
   commit = false
   readingTime = false
   useHLJS = true
